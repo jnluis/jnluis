@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div> 
-  <a href="https://github.com/jnluis">
+<div style="display: flex; flex-direction: row;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jnluis&show_icons=true&hide_border=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/jnluis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnluis&layout=compact&hide_border=true&theme=vision-friendly-dark" />
-  </a>
 </div>
 
 #
