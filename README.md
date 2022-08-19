@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnluis&layout=compact&hide_border=true&theme=vision-friendly-dark" />
 </div>
 
-#
 <!--
 # 🏆GitHub Profile Trophy
 
