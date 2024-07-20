@@ -1,4 +1,4 @@
-# João Luís - Informatics Engineering Student
+# João Luís - Cybersecurity Student
 
 <!--
 **jnluis/jnluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
